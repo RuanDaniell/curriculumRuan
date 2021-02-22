@@ -37,7 +37,8 @@
 }
 
 .tamanho-corpo {
-	width: 75%;
+	width: 150vh;
+    height:auto;
 	margin: auto;
     display: block;
     position: absolute;
@@ -59,8 +60,7 @@
     
 }
 .esc1{
-   
-    margin-left: 5%;
+    margin-left: 11vh;
     margin-top: -50px;
 }
 .barra2{
@@ -75,7 +75,7 @@
     
 }
 .esc2{
-    margin-left: 5%;
+    margin-left: 11vh;
     margin-top: -50px;
 }
 .barra3{
@@ -90,7 +90,7 @@
     
 }
 .esc3{
-    margin-left: 5%;
+    margin-left: 11vh;
     margin-top: -50px;
 }
 .barra4{
@@ -104,7 +104,7 @@
     padding-top: 1%;
 }
 .esc4{
-    margin-left: 5%;
+    margin-left: 11vh;
     margin-top: -50px;
 }
 .barra5{
@@ -118,7 +118,7 @@
     
 }
 .esc5{
-    margin-left: 5%;
+    margin-left: 11vh;
     margin-top: -50px;
 }
 .escrita{
@@ -127,43 +127,7 @@
     font-size: 20px;
 }
 
-.menu-urls{
-    height: 80px ;
-    border-bottom: 3px solid #9d9d9d;
-    
-}
 
-.menu ul li {
-    display: inline-block;
-    color: #9d9d9d;
-    margin-left: 10%;
-    
-}
-.menu ul li a:hover{
-    color: black;
-
-}
-.menu ul li:hover{
-   height: 45px;
-    border-bottom: 3px solid #9d9d9d;
-   
-}
-.menu ul li a{
-    display: inline-block;
-    color: #9d9d9d;
-    text-decoration: none ;
-    font-size: 20px;
-    text-transform: uppercase;
-    font-family: 'Arial';
-    
-}
-.menu{
-    width: 100%;
-    float: left;
-    margin-top: -50px;
-    margin-left: 100px;
-
-}
 .space{
     padding: 1%;
 }
